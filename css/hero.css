@@ -1,14 +1,18 @@
+
 body{
     margin: 0;
     font-family: helvetica, Arial, Helvetica, sans-serif;
     font-size: 20px;
     line-height: 30px;
+    width: 600px;
+    margin: auto;
+    
 }
 header{
     background-color: rgb(153, 7, 2);
     text-align: center;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
 }
 
